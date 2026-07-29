@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Ganesh Sharma
@@ -45,7 +45,7 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
@@ -146,7 +146,7 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Statistics
+## 🔥 GitHub Statistics
 
 <div align="center">
 
@@ -169,7 +169,7 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -288,7 +288,7 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="28" /> &nbsp;Certifications
+## 📜 Certifications
 
 <div align="center">
 
@@ -306,7 +306,7 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="28" /> &nbsp;What I'm Currently Up To
+## ⭐ What I'm Currently Up To
 
 <div align="center">
 
@@ -323,7 +323,7 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Email" width="28" /> &nbsp;Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
