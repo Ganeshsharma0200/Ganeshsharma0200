@@ -144,31 +144,6 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 </p>
 </details>
 
----
-
-## 🔥 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ganeshsharma0200&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ganeshsharma0200&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&stroke=21262d" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshsharma0200&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ganeshsharma0200&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1a1b27&area=true&hide_border=true&custom_title=Contribution%20Graph" />
-
-<br/><br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Ganeshsharma0200&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -185,18 +160,6 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 
 ### 🌐 Full Stack Web Apps
 
-<a href="https://github.com/Ganeshsharma0200/finsight_analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=finsight_analytics&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
-<a href="https://github.com/Ganeshsharma0200/welth_ai_finance_platform_ts">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=welth_ai_finance_platform_ts&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
-<a href="https://github.com/Ganeshsharma0200/vogue_ar_tryon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=vogue_ar_tryon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
 </td>
 </tr>
 
@@ -205,34 +168,11 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 
 ### 📱 Mobile & Desktop Apps
 
-<a href="https://github.com/Ganeshsharma0200/stock_inventory_android_kotlin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=stock_inventory_android_kotlin&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
-<a href="https://github.com/Ganeshsharma0200/stock_inventory_react_native">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=stock_inventory_react_native&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
-<a href="https://github.com/Ganeshsharma0200/electron_3d_assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=electron_3d_assistant&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Automation & Tools
 
-<a href="https://github.com/Ganeshsharma0200/clipgenius_shorts">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=clipgenius_shorts&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
-<a href="https://github.com/Ganeshsharma0200/youtube_video_downloader">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=youtube_video_downloader&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
-<a href="https://github.com/Ganeshsharma0200/dailytools_usa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=dailytools_usa&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
 
 </td>
 </tr>
@@ -242,26 +182,12 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 
 ### 🎮 Game Development
 
-<a href="https://github.com/Ganeshsharma0200/soulforge_web_rpg">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=soulforge_web_rpg&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
-<a href="https://github.com/Ganeshsharma0200/opengl_3d_engine_cpp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=opengl_3d_engine_cpp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 Learning & Practice
 
-<a href="https://github.com/Ganeshsharma0200/c_cpp_dsa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=c_cpp_dsa&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
-
-<a href="https://github.com/Ganeshsharma0200/python_algorithms">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=python_algorithms&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
-</a>
 
 </td>
 </tr>
