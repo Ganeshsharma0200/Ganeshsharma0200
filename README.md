@@ -254,7 +254,7 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://YOUR_PORTFOLIO.com" target="_blank">
+<a href="https://ganeshsharma0200.github.io/developer_portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
