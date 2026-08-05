@@ -180,7 +180,6 @@ fun_fact: "I've built 70+ projects spanning web, mobile, AI, games & automation 
 ### 🤖 AI / Machine Learning
   
 <a href="https://github.com/Ganeshsharma0200/LLM-FineTuning-LoRA-Suite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ganeshsharma0200&repo=LLM-FineTuning-LoRA-Suite&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" />
 </a>
 
 <a href="https://github.com/Ganeshsharma0200/ReceiptOCR-Expense-Categorizer">
